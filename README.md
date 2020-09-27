@@ -16,6 +16,7 @@ Therefore, I think I have found my home in being a developer, as this seems to b
 ## Experience
  
 **Misfit Fashion** | APR19 - SEPT20
+
 _Account Manager_
  
 - Overseeing and managing product life cycle, from inception to delivery.
@@ -23,6 +24,7 @@ _Account Manager_
 - Critical path management, monitoring the production process ensuring all deliveries are met and prioritising key lines within the factory schedule.
  
 **AQ/AQ** | JUN17 - NOV18 
+
 _Production Manager_
  
 - Leading the development of multi-product monthly ranges.
