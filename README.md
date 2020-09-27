@@ -15,14 +15,14 @@ Therefore, I think I have found my home in being a developer, as this seems to b
  
 ## Experience
  
-**Misfit Fashion** | APR19 - SEPT20
+**Misfit Fashion** | APR19 - SEPT20  
 _Account Manager_
  
 - Overseeing and managing product life cycle, from inception to delivery.
 - Problem solving with factories and suppliers to meet clients needs.
 - Critical path management, monitoring the production process ensuring all deliveries are met and prioritising key lines within the factory schedule.
  
-**AQ/AQ** | JUN17 - NOV18
+**AQ/AQ** | JUN17 - NOV18  
 _Production Manager_
  
 - Leading the development of multi-product monthly ranges.
@@ -73,6 +73,7 @@ A 16 week intensive development bootcamp focusing on:
 - 2:1 Fashion Atelier BA (Hons) Degree
 - Graduate Fashion Week finalist
  
-#### Loves
+## Loves
  
-Epic TV shows/Holidays/History/Films/Dogs/Tea/Cookies/Drawing - in no particular order
+Epic TV shows | Holidays | History | Films | Dogs | Tea | Cookies | Drawing   
+Disclamer - in no particular order!
