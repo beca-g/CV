@@ -1,6 +1,6 @@
 ## BECA GALLIANO
  
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Loves](#Loves)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Loves](#Loves)
  
 After working in the fashion industry for almost 10 years, I wanted (needed) to move in a new direction that was both challenging and rewarding. What initially led me to fashion was the creative platform in a high pressure environment, where ideas flourish and problems are solved, where the ‘impossible’ is made possible. 
  
