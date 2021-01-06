@@ -8,10 +8,10 @@ Therefore, I think I have found my home in being a developer, as this seems to b
  
 ## Projects
  
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Technology        | Testing     |
+| :--------------------------: | :---------------: | :---------------: | :----------:
+| [**Why leave?**](https://github.com/Joshuamac2/Why-leave-backend)               | **Webapp:** To help curb misinformation, and to provide a safe platform to educate the public on global refugee crisis. | Ruby on Rails, PostgreSQL, React, Bootstrap, Cypress, etc. | RSpec, Cypress |
+| **Something else worked on** | A webapp to do y. | Ruby              |     |
  
 ## Experience
  
@@ -23,7 +23,7 @@ _Account Manager_
 - Critical path management, monitoring the production process ensuring all deliveries are met and prioritising key lines within the factory schedule.
  
 **AQ/AQ** | JUN17 - NOV18  
-_Production Manager_
+_Production and Development Manager_
  
 - Leading the development of multi-product monthly ranges.
 - Problem-solving with factories, finding solutions to reduce prices by reviewing fabric options, lay plans and construction methods.
@@ -75,4 +75,4 @@ A 16 week intensive development bootcamp focusing on:
  
 ## Loves
  
-Epic TV shows | Holidays | History | Films | Dogs | Tea | Cookies | Drawing - in no particular order!
+Epic TV shows | Holidays | History | Films | Dogs | Tea | Cookies | Drawing 
