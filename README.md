@@ -75,5 +75,4 @@ A 16 week intensive development bootcamp focusing on:
  
 ## Loves
  
-Epic TV shows | Holidays | History | Films | Dogs | Tea | Cookies | Drawing   
-Disclamer - in no particular order!
+Epic TV shows | Holidays | History | Films | Dogs | Tea | Cookies | Drawing - in no particular order!
