@@ -10,7 +10,7 @@ Therefore, I think I have found my home in being a developer, as this seems to b
  
 | Name                         | Description       | Technology        | Testing     |
 | :--------------------------: | :---------------: | :---------------: | :----------:
-| [**Why leave?**](https://github.com/Joshuamac2/Why-leave-backend)               | **Webapp:** To help curb misinformation, and to provide a safe platform to educate the public on global refugee crisis. | Ruby on Rails, PostgreSQL, React, Bootstrap, Cypress, etc. | RSpec, Cypress |
+| [**Why leave?**](https://github.com/Joshuamac2/Why-leave-backend)               | **Webapp:** To help curb misinformation, and to provide a safe platform to educate the public on global refugee crisis. | Ruby on Rails, PostgreSQL, Travis CI, Heroku, React, Bootstrap, Google Maps API, Vercel  | RSpec, Cypress |
 | **Something else worked on** | A webapp to do y. | Ruby              |     |
  
 ## Experience
