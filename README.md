@@ -65,8 +65,8 @@ A 16 week intensive development bootcamp focusing on:
  
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Languages and frameworks: Ruby, Rails, JavaScript, React, Node.js
+- Testing frameworks: RSpec, Jasmine, Cypress, Jest
  
 #### The University for the Creative Arts / Rochester | 2008-2011
  
