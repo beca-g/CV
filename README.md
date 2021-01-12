@@ -13,24 +13,7 @@ Therefore, I think I have found my home in being a developer, as this seems to b
 | [**Why leave?**](https://github.com/Joshuamac2/Why-leave-backend)               | **Webapp:** To help curb misinformation, and to provide a safe platform to educate the public on global refugee crisis. | Ruby on Rails, PostgreSQL, Travis CI, Heroku, React, Bootstrap, Google Maps API, Vercel  | RSpec, Cypress |
 | [**Bank Tech Test**](https://github.com/beca-g/bank-tech-test) | A practice tech test of a basic banking app | Ruby              | Rspec    |
  
-## Experience
- 
-**Misfit Fashion** | APR19 - SEPT20  
-_Account Manager_
- 
-- Overseeing and managing product life cycle, from inception to delivery.
-- Problem solving with factories and suppliers to meet clients needs.
-- Critical path management, monitoring the production process ensuring all deliveries are met and prioritising key lines within the factory schedule.
- 
-**AQ/AQ** | JUN17 - NOV18  
-_Production and Development Manager_
- 
-- Leading the development of multi-product monthly ranges.
-- Problem-solving with factories, finding solutions to reduce prices by reviewing fabric options, lay plans and construction methods.
-- Critical path management, monitoring the production process from design concept through to bulk delivery.
-- Mentoring and managing junior staff, delegating work to help grow and develop their careers.
- 
-## Skills
+ ## Skills
  
 - Thrives under pressure
 - Excellent communicator
@@ -56,6 +39,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+## Experience
+ 
+**Misfit Fashion** | APR19 - SEPT20  
+_Account Manager_
+ 
+- Overseeing and managing product life cycle, from inception to delivery.
+- Problem solving with factories and suppliers to meet clients needs.
+- Critical path management, monitoring the production process ensuring all deliveries are met and prioritising key lines within the factory schedule.
+ 
+**AQ/AQ** | JUN17 - NOV18  
+_Production and Development Manager_
+ 
+- Leading the development of multi-product monthly ranges.
+- Problem-solving with factories, finding solutions to reduce prices by reviewing fabric options, lay plans and construction methods.
+- Critical path management, monitoring the production process from design concept through to bulk delivery.
+- Mentoring and managing junior staff, delegating work to help grow and develop their careers.
+ 
  
 ## Education
  
