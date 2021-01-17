@@ -1,44 +1,45 @@
-## BECA GALLIANO
+# BECA GALLIANO
+
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Loves](#loves)
+
+### Background & Motivation
+
+After working in the fashion industry for almost 10 years, I wanted (needed) to move in a new direction that was both more challenging and rewarding. While furloughed from my most recent position I was able to reflect on my situation and explore new career possibilities. I have always been interested in tech and with many friends already in the industry, I naturally found myself gravitating towards it. It became increasingly clear that almost every element of the modern world relied on tech in some way and I wanted to be involved. I began teaching myself Ruby and quickly realised how much I loved to code.
+
+What initially led me to fashion was the creative platform in a high-pressure environment, where ideas flourish and problems are solved and programming is the epicentre of that environment. I can utilise my skills and keen work ethic obtained in my previous life, and apply it to the exciting world of tech, where everything can change because of a line of code.
+
  
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Loves](#Loves)
+### Projects
  
-After working in the fashion industry for almost 10 years, I wanted (needed) to move in a new direction that was both challenging and rewarding. What initially led me to fashion was the creative platform in a high pressure environment, where ideas flourish and problems are solved, where the ‘impossible’ is made possible. 
- 
-Therefore, I think I have found my home in being a developer, as this seems to be the epicentre of that environment, utilizing my skills and keen work ethic that I obtained in my previous life, and applied it to the exciting world of programming, where everything can change because of a line of code.
- 
-## Projects
- 
-| Name                         | Description       | Technology        | Testing     |
-| :--------------------------: | :---------------: | :---------------: | :----------:
-| [**Why leave?**](https://github.com/Joshuamac2/Why-leave-backend)               | **Webapp:** To help curb misinformation, and to provide a safe platform to educate the public on global refugee crisis. | Ruby on Rails, PostgreSQL, Travis CI, Heroku, React, Bootstrap, Google Maps API, Vercel  | RSpec, Cypress |
-| [**Bank Tech Test**](https://github.com/beca-g/bank-tech-test) | A practice tech test of a basic banking app | Ruby              | Rspec    |
- 
- ## Skills
- 
-- Thrives under pressure
-- Excellent communicator
-- Process Management / critical path
-- Fast learner - hit the ground running
- 
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+| Name | Description | Technology	| Testing	|
+|-----	|------------	|------------|--------	|
+| [**Why leave?**](https://github.com/Joshuamac2/Why-leave-backend) 	| **Webapp:** To help curb misinformation, and to provide a safe platform to educate the public on the global refugee crisis. 	| Ruby on Rails, PostgreSQL, Travis CI/CD, Heroku, React, Bootstrap, Google Maps API, Vercel 	| RSpec, Cypress 	|
+| [**Bank Tech Test**](https://github.com/beca-g/bank-tech-test)    	| A practice tech test of a basic banking app | Ruby    | Rspec          	|
+
+
+### Skills
  
 #### Thrives under pressure
  
-When the dust from the pandemic settled and work started to go back to normal I was brought back from being on furlough alongside my manager. We went from a seven person team to just two. Despite the heavy workload and pressure we successfully maintained all accounts, while my manager handled the mess that had COVID left behind I picked up all new business, producing up to 350,000 garments a week - just 30% less than pre-pandemic.
+When the dust from the pandemic settled and work started to go back to normal I was brought back from being on furlough alongside my manager. We went from a seven-person team to just two. Despite the heavy workload and pressure we successfully maintained all accounts, while my manager handled the mess that had COVID left behind I picked up all new business, producing up to 350,000 garments a week - just 30% less than pre-pandemic.
 I not only handled my larger more stressful workload I excelled at it, my can-do and positive attitude to get the job done teamed with my strong organisation and time management skills play a key part.
  
-#### Excellent Communicator
+#### Communication and Teamwork
  
-My excellent communication and team-working skills strengthened whilst working in my previous roles, working across multiple accounts and collections required liaising with many internal and external teams. Keeping everyone updated was a daily task for me, essential to keep the business moving without fault. At least once a week I would send a full update to all needed.
+My excellent communication and team-working skills strengthened whilst working in my previous roles. Working across multiple accounts and collections required liaising with many internal and external teams. Keeping everyone updated was a daily task for me and essential to keep the business moving without fault. At least once a week I would send a full update to all needed.
+
+
+## Technical Experience
+
+#### Makers Academy | SEPT20 - DEC20
  
-#### Fast learner
+A 16-week intensive development boot camp focusing on:
  
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
- 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Languages and frameworks: Ruby, Rails, JavaScript, React, Node.js
+- Testing frameworks: RSpec, Jasmine, Cypress, Jest
+
 ## Experience
  
 **Misfit Fashion** | APR19 - SEPT20  
@@ -59,20 +60,12 @@ _Production and Development Manager_
  
 ## Education
  
-#### Makers Academy | SEPT20 - DEC20
- 
-A 16 week intensive development bootcamp focusing on:
- 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Languages and frameworks: Ruby, Rails, JavaScript, React, Node.js
-- Testing frameworks: RSpec, Jasmine, Cypress, Jest
- 
 #### The University for the Creative Arts / Rochester | 2008-2011
  
 - 2:1 Fashion Atelier BA (Hons) Degree
 - Graduate Fashion Week finalist
  
 ## Loves
- 
-Epic TV shows | Holidays | History | Films | Dogs | Tea | Cookies | Drawing 
+
+Epic TV shows | Holidays | History | Films | Life Drawing | Dogs | Tea | Cookies
+
