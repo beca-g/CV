@@ -67,5 +67,5 @@ _Production and Development Manager_
  
 ## Loves
 
-Epic TV shows | Holidays | History | Films | Life Drawing | Dogs | Tea | Cookies
+Epic TV shows | Travelling | History | [Life Drawing](https://www.pinterest.co.uk/becagalliano/sketching/) | Dogs | Tea | Cookies
 
