@@ -1,6 +1,11 @@
-# BECA GALLIANO
+<div align="center">
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Loves](#loves)
+<h1><b> BECA GALLIANO </b></h1>
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic">](https://linkedin.com/in/rebekah-galliano)  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic">](https://github.com/beca-g) [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&style=plastic">](https://www.codewars.com/users/becag)
+
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Loves](#loves) 
+</div>
 
 ### Background & Motivation
 
