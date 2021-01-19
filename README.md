@@ -4,8 +4,10 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic">](https://linkedin.com/in/rebekah-galliano)  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic">](https://github.com/beca-g) [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&style=plastic">](https://www.codewars.com/users/becag)
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Loves](#loves) 
+[Projects](#projects) | [Skills](#skills) | [Technical Education](#Technical_Education) | [Experience](#experience) | [Education](#education) | [Loves](#loves) 
 </div>
+
+<br>
 
 ### Background & Motivation
 
@@ -34,7 +36,7 @@ I not only handled my larger more stressful workload I excelled at it, my can-do
 My excellent communication and team-working skills strengthened whilst working in my previous roles. Working across multiple accounts and collections required liaising with many internal and external teams. Keeping everyone updated was a daily task for me and essential to keep the business moving without fault. At least once a week I would send a full update to all needed.
 
 
-## Technical Experience
+## Technical Education
 
 #### Makers Academy | SEPT20 - DEC20
  
