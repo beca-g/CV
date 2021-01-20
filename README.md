@@ -21,11 +21,10 @@ What initially led me to fashion was the creative platform in a high-pressure en
 | [**Why leave?**](https://github.com/Joshuamac2/Why-leave-backend) 	| **Webapp:** To help curb misinformation, and to provide a safe platform to educate the public on the global refugee crisis. 	| Ruby on Rails, PostgreSQL, Travis CI/CD, Heroku, React, Bootstrap, Google Maps API, Vercel 	| RSpec, Cypress 	|
 | [**Bank Tech Test**](https://github.com/beca-g/bank-tech-test)    	| A practice tech test of a basic banking app | Ruby    | Rspec          	|
 
-<br>
 
 ## Technical Skills
 
-**Languages, Libraries & Frameworks:** Ruby, Javascript, React, Ruby on Rails, Sinatra, HTML, CSS, SQL, Rspec, Jasmin, Cypress
+**Languages, Libraries & Frameworks:** Ruby, Javascript, React, Ruby on Rails, Sinatra, HTML, CSS, SQL, RSpec, Jasmine, Cypress
 
 **Tools and Methodologies:** Self-learning, Domain Modelling, CRC Cards, Agile workflow, Test-driven development, Object oriented programming, Pair-programming, Feedback, Reviews, Diagramming, Wireframing, User Stories, Travis, Vercel, PostreSQL
 
@@ -47,8 +46,7 @@ Makers is a highly selective, intense 16-week Bootcamp that teaches life-long le
  
 ### Thrives under pressure
  
-When the dust from the pandemic settled and work started to go back to normal I was brought back from being on furlough alongside my manager. We went from a seven-person team to just two. Despite the heavy workload and pressure we successfully maintained all accounts, while my manager handled the mess that had COVID left behind I picked up all new business, producing up to 350,000 garments a week - just 30% less than pre-pandemic.
-I not only handled my larger more stressful workload I excelled at it, my can-do and positive attitude to get the job done teamed with my strong organisation and time management skills play a key part.
+When the dust from the pandemic settled and business at Misfit Fashion started to pick up again, I returned after being on furlough, alongside my manager. We went from a seven-person team to just two. Despite the heavy workload and pressure we successfully maintained all accounts. I took control of all new business, producing up to 350,000 garments a week - just 30% less than pre-pandemic. My positive, can-do attitude paired with my strong organisational and time management allowed me to excel at handling this large, stressful workload alone.
  
 ### Communication and Teamwork
  
