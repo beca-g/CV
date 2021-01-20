@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Imgur](https://imgur.com/bxRAcjQ.png)](https://www.linkedin.com/in/rebekah-galliano/)
+[![Imgur](https://imgur.com/8GQcyUv.png)](https://www.linkedin.com/in/rebekah-galliano/)
 
 [Projects](#projects) 📐 **|** [Technical Skills](#technical-skills) 💻 **|** [Technical Experience](#technical-experience) 👩🏼‍💻 **|** [Soft Skills](#soft-skills) 💁🏼‍♀️ **|** [Experience](#experience) 👩🏼‍🎨 **|** [Education](#education) 👩🏼‍🎓 **|** [Loves](#loves) 💛  
 </div>
