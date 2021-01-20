@@ -48,6 +48,11 @@ Makers is a highly selective, intense 16-week Bootcamp that teaches life-long le
  
 When the dust from the pandemic settled and business at Misfit Fashions started to pick up again, I returned after being on furlough, alongside my manager. We went from a seven-person team to just two. Despite the heavy workload and pressure we successfully maintained all accounts. I took control of all new business, producing up to 350,000 garments a week - just 30% less than pre-pandemic. My positive, can-do attitude paired with my strong organisational and time management allowed me to excel at handling this large, stressful workload alone.
 
+### Problem Solver
+
+During my time in Fashion I developed a very keen eye for recongnising problems early and finding solutions fast. The enjoyment I get from fixing a problem was at the core of my decision in becoming a developer. I get engrossed in barriers and bugs that inevitably arise within a project and love working to unblock them. I have found my commitment to this skill in particular has been a considerable advantage for me whilst studying software development.
+
+
 ### Drive
 
 I’m highly motivated, and unafraid of a challenge. I completed the 12-week Makers Academy coding bootcamp as a remote student which required an incredible amount discipline, focus and a large dose of self-belief.
