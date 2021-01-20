@@ -4,7 +4,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic">](https://linkedin.com/in/rebekah-galliano)  [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&style=plastic">](https://www.codewars.com/users/becag) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic">](https://github.com/beca-g) 
 
-[Projects](#projects) | [Technical Skills](#technical_skills) | [Technical Experience](#Technical_Experience) |[Soft Skills](#soft_skills) |  [Experience](#experience) | [Education](#education) | [Loves](#loves) 
+[Projects](#projects) 📐 | [Technical Skills](#technical-skills) 💻 | [Technical Experience](#technical-experience) 👩🏼‍💻 | [Soft Skills](#soft-skills) 💁🏼‍♀️ |  [Experience](#experience) 👩🏼‍🎨 | [Education](#education) 👩🏼‍🎓 | [Loves](#loves) 💛  
 
 
 
