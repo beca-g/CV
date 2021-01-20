@@ -55,7 +55,7 @@ During my time in Fashion I developed a very keen eye for recongnising problems 
 
 ### Drive
 
-I’m highly motivated, and unafraid of a challenge. I completed the 12-week Makers Academy coding bootcamp as a remote student which required an incredible amount discipline, focus and a large dose of self-belief.
+I’m highly motivated, and unafraid of a challenge. I completed the 12-week Makers Academy coding bootcamp as a remote student which required an incredible amount of discipline, focus and a large dose of self-belief.
 
  
 ### Communication
