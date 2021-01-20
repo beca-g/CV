@@ -1,8 +1,6 @@
 <div align=center>
 
-![Imgur](https://imgur.com/YTa3Ua5.png)
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic">](https://linkedin.com/in/rebekah-galliano)  [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&style=plastic">](https://www.codewars.com/users/becag) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic">][(https://github.com/beca-g)](https://linkedin.com/in/rebekah-galliano)
+[![Imgur](https://imgur.com/YTa3Ua5.png)](https://www.linkedin.com/in/rebekah-galliano/)
 
 [Projects](#projects) 📐 | [Technical Skills](#technical-skills) 💻 | [Technical Experience](#technical-experience) 👩🏼‍💻 | [Soft Skills](#soft-skills) 💁🏼‍♀️ |  [Experience](#experience) 👩🏼‍🎨 | [Education](#education) 👩🏼‍🎓 | [Loves](#loves) 💛  
 </div>
