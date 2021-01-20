@@ -9,9 +9,10 @@
 
 ## Background & Motivation
 
-After working in the fashion industry for almost 10 years, I wanted (needed) to move in a new direction that was both more challenging and rewarding. While furloughed from my most recent position I was able to reflect on my situation and explore new career possibilities. I have always been interested in tech and with many friends already in the industry, I naturally found myself gravitating towards it. It became increasingly clear that almost every element of the modern world relied on tech in some way and I wanted to be involved. I began teaching myself Ruby and quickly realised how much I loved to code.
+I am a recent graduate of Makers Academy, with a background in Fashion. 
 
 What initially led me to fashion was the creative platform in a high-pressure environment, where ideas flourish and problems are solved and programming is the epicentre of that environment. I can utilise my skills and keen work ethic obtained in my previous life, and apply it to the exciting world of tech, where everything can change because of a line of code.
+
 
  
 ## Projects
