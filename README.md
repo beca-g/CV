@@ -1,13 +1,8 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rebekah-galliano/">
-  <img align="centre" alt="Rebekah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-
-  <a href="https://www.github.com/beca-g">
-  <img align="centre" alt="Beca's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-
-
 # BECA GALLIANO
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic">](https://linkedin.com/in/rebekah-galliano)  [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&style=plastic">](https://www.codewars.com/users/becag) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic">](https://github.com/beca-g) 
 
 [Projects](#projects) | [Skills](#skills) | [Technical Education](#Technical_Education) | [Experience](#experience) | [Education](#education) | [Loves](#loves) 
 </div>
