@@ -1,8 +1,8 @@
 <div align="center">
 
-# BECA GALLIANO
+[<img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic">](https://linkedin.com/in/rebekah-galliano)  [<img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic">](https://github.com/beca-g) [<img src="https://img.shields.io/badge/-B1361E?style=for-the-badge&logo=codewars&logoColor=white&style=plastic">](https://www.codewars.com/users/becag)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic">](https://linkedin.com/in/rebekah-galliano)  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic">](https://github.com/beca-g) [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&style=plastic">](https://www.codewars.com/users/becag)
+# BECA GALLIANO
 
 [Projects](#projects) | [Skills](#skills) | [Technical Education](#Technical_Education) | [Experience](#experience) | [Education](#education) | [Loves](#loves) 
 </div>
@@ -32,7 +32,8 @@ What initially led me to fashion was the creative platform in a high-pressure en
 
 ## Technical Experience  
 
-### Makers Academy - Software Engineering Bootcamp | SEPT20 - DEC20  
+### Makers Academy 
+#### Software Engineering Bootcamp | SEPT20 - DEC20  
 
 Makers is a highly selective, intense 16-week Bootcamp that teaches life-long learning skills. Focusing on best practices and valuable skills including, the importance of growth mindset, being confident in picking up new software languages and frameworks, test-driven development, pair-programming and following agile work flows with sprints, standups and retros.
 
