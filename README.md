@@ -46,15 +46,21 @@ Makers is a highly selective, intense 16-week Bootcamp that teaches life-long le
  
 ### Thrives under pressure
  
-When the dust from the pandemic settled and business at Misfit Fashion started to pick up again, I returned after being on furlough, alongside my manager. We went from a seven-person team to just two. Despite the heavy workload and pressure we successfully maintained all accounts. I took control of all new business, producing up to 350,000 garments a week - just 30% less than pre-pandemic. My positive, can-do attitude paired with my strong organisational and time management allowed me to excel at handling this large, stressful workload alone.
+When the dust from the pandemic settled and business at Misfit Fashions started to pick up again, I returned after being on furlough, alongside my manager. We went from a seven-person team to just two. Despite the heavy workload and pressure we successfully maintained all accounts. I took control of all new business, producing up to 350,000 garments a week - just 30% less than pre-pandemic. My positive, can-do attitude paired with my strong organisational and time management allowed me to excel at handling this large, stressful workload alone.
+
+### Drive
+
+I’m highly motivated, and unafraid of a challenge. I completed the 12-week Makers Academy coding bootcamp as a remote student which required an incredible amount discipline, focus and a large dose of self-belief.
+
  
-### Communication and Teamwork
+### Communication
  
-My excellent communication and team-working skills strengthened whilst working in my previous roles. Working across multiple accounts and collections required liaising with many internal and external teams. Keeping everyone updated was a daily task for me and essential to keep the business moving without fault. At least once a week I would send a full update to all needed.
+I am an excellent communicator and team player. For many years I have worked in ever-changing teams across multiple accounts and collections. When a team changes regularly the ability to communicate the priority, current state and the unique challenges is an essential skill to keep the business moving without fault.
+
 
 ## Experience
  
-**Misfit Fashion** | APR19 - SEPT20  
+**Misfit Fashions** | APR19 - SEPT20  
 _Account Manager_
  
 - Overseeing and managing product life cycle, from inception to delivery.
