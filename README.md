@@ -7,47 +7,53 @@
 [Projects](#projects) | [Skills](#skills) | [Technical Education](#Technical_Education) | [Experience](#experience) | [Education](#education) | [Loves](#loves) 
 </div>
 
-<br>
 
-### Background & Motivation
+# Background & Motivation
 
 After working in the fashion industry for almost 10 years, I wanted (needed) to move in a new direction that was both more challenging and rewarding. While furloughed from my most recent position I was able to reflect on my situation and explore new career possibilities. I have always been interested in tech and with many friends already in the industry, I naturally found myself gravitating towards it. It became increasingly clear that almost every element of the modern world relied on tech in some way and I wanted to be involved. I began teaching myself Ruby and quickly realised how much I loved to code.
 
 What initially led me to fashion was the creative platform in a high-pressure environment, where ideas flourish and problems are solved and programming is the epicentre of that environment. I can utilise my skills and keen work ethic obtained in my previous life, and apply it to the exciting world of tech, where everything can change because of a line of code.
 
  
-### Projects
+# Projects
  
 | Name | Description | Technology	| Testing	|
 |-----	|------------	|------------|--------	|
 | [**Why leave?**](https://github.com/Joshuamac2/Why-leave-backend) 	| **Webapp:** To help curb misinformation, and to provide a safe platform to educate the public on the global refugee crisis. 	| Ruby on Rails, PostgreSQL, Travis CI/CD, Heroku, React, Bootstrap, Google Maps API, Vercel 	| RSpec, Cypress 	|
 | [**Bank Tech Test**](https://github.com/beca-g/bank-tech-test)    	| A practice tech test of a basic banking app | Ruby    | Rspec          	|
 
+<br>
 
-### Skills
+## Technical Skills
+
+**Languages, Libraries & Frameworks:** Ruby, Javascript, React, Ruby on Rails, Sinatra, HTML, CSS, SQL, Rspec, Jasmin, Cypress
+
+**Tools and Methodologies:** Self-learning, Domain Modelling, CRC Cards, Agile workflow, Test-driven development, Object oriented programming, Pair-programming, Feedback, Reviews, Diagramming, Wireframing, User Stories, Travis, Vercel, PostreSQL
+
+# Technical Experience  
+
+### Makers Academy - Software Engineering Bootcamp | SEPT20 - DEC20  
+
+Makers is a highly selective, intense 16-week Bootcamp that teaches life-long learning skills. Focusing on best practices and valuable skills including, the importance of growth mindset, being confident in picking up new software languages and frameworks, test-driven development, pair-programming and following agile work flows with sprints, standups and retros.
+
+- OOP, TDD, MVC, DDD
+- Agile
+- Languages and frameworks: Ruby, Rails, JavaScript, React, Sinatra
+- Testing frameworks: RSpec, Jasmine, Cypress, Jest, Capybara
+
+
+# Soft Skills
  
-#### Thrives under pressure
+## Thrives under pressure
  
 When the dust from the pandemic settled and work started to go back to normal I was brought back from being on furlough alongside my manager. We went from a seven-person team to just two. Despite the heavy workload and pressure we successfully maintained all accounts, while my manager handled the mess that had COVID left behind I picked up all new business, producing up to 350,000 garments a week - just 30% less than pre-pandemic.
 I not only handled my larger more stressful workload I excelled at it, my can-do and positive attitude to get the job done teamed with my strong organisation and time management skills play a key part.
  
-#### Communication and Teamwork
+## Communication and Teamwork
  
 My excellent communication and team-working skills strengthened whilst working in my previous roles. Working across multiple accounts and collections required liaising with many internal and external teams. Keeping everyone updated was a daily task for me and essential to keep the business moving without fault. At least once a week I would send a full update to all needed.
 
-
-## Technical Education
-
-#### Makers Academy | SEPT20 - DEC20
- 
-A 16-week intensive development boot camp focusing on:
- 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Languages and frameworks: Ruby, Rails, JavaScript, React, Node.js
-- Testing frameworks: RSpec, Jasmine, Cypress, Jest
-
-## Experience
+# Experience
  
 **Misfit Fashion** | APR19 - SEPT20  
 _Account Manager_
@@ -65,14 +71,14 @@ _Production and Development Manager_
 - Mentoring and managing junior staff, delegating work to help grow and develop their careers.
  
  
-## Education
+# Education
  
 #### The University for the Creative Arts / Rochester | 2008-2011
  
 - 2:1 Fashion Atelier BA (Hons) Degree
 - Graduate Fashion Week finalist
  
-## Loves
+# Loves
 
 Epic TV shows | Travelling | History | [Life Drawing](https://www.pinterest.co.uk/becagalliano/sketching/) | Dogs | Tea | Cookies
 
