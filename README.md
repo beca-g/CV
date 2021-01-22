@@ -2,7 +2,7 @@
 
 [![Imgur](https://imgur.com/HaVqgGC.png)](https://www.linkedin.com/in/rebekah-galliano/)
 
-[Projects](#projects) 📐 **|** [Technical Skills](#technical-skills) 💻 **|** [Technical Experience](#technical-experience) 👩🏼‍💻 **|** [Soft Skills](#soft-skills) 💁🏼‍♀️ **|** [Experience](#experience) 👩🏼‍🎨 **|** [Education](#education) 👩🏼‍🎓 **|** [Loves](#loves) 💛  
+[Projects](#projects) 📐 **|** [Technical Skills](#technical-skills) 💻 **|** [Technical Experience](#technical-experience) 👩🏼‍💻 **|** [Soft Skills](#soft-skills) 💁🏼‍♀️ **|** [Experience](#experience) 👩🏼‍🎨 **|** [Education](#education) 👩🏼‍🎓 **|** [Loves](#loves) 💛
 </div>
 
 
