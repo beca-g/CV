@@ -10,11 +10,7 @@
 
 ## Background & Motivation
 
-I am a recent graduate of Makers Academy, with a background in Fashion. 
-
-What initially led me to fashion was the creative platform in a high-pressure environment, where ideas flourish and problems are solved and programming is the epicentre of that environment. I can utilise my skills and keen work ethic obtained in my previous life, and apply it to the exciting world of tech, where everything can change because of a line of code.
-
-
+I am a passionate, highly driven software developer and a recent graduate of Makers Academy. With a wealth of experience in high-pressure environments, the fashion industry gave me a creative platform where my ideas could flourish and programming was the epicentre of that domain. Keen to utilise my skills in a more challenging way I decided to pursue coding and a path of life long learning. Now applying my keen work ethic obtained in my previous life to the exciting world of tech, where everything can change because of a line of code.
  
 ## Projects
  
@@ -52,18 +48,16 @@ When the dust from the pandemic settled and business at Misfit Fashions started 
 
 ### Problem Solver
 
-During my time in Fashion I developed a very keen eye for recongnising problems early and finding solutions fast. The enjoyment I get from fixing a problem was at the core of my decision in becoming a developer. I get engrossed in barriers and bugs that inevitably arise within a project and love working to unblock them. I have found my commitment to this skill in particular has been a considerable advantage for me whilst studying software development.
-
+During my time in Fashion I developed a keen eye for recognising problems early and finding solutions fast. The enjoyment I got from fixing a problem was at the core of my decision in becoming a developer. I get engrossed in barriers and bugs that inevitably arise within a project and love working to unblock them. I have found my commitment to this skill in particular has been a considerable advantage for me whilst studying software development. 
 
 ### Drive
 
-I’m highly motivated, and unafraid of a challenge. I completed the 12-week Makers Academy coding bootcamp as a remote student which required an incredible amount of discipline, focus and a large dose of self-belief.
+I’m highly motivated and not afraid of a challenge. I completed the 12-week Makers Academy coding bootcamp as a remote student which required an incredible amount of discipline, focus and a large dose of self-belief.
 
  
 ### Communication
  
-I am an excellent communicator and team player. For many years I have worked in ever-changing teams across multiple accounts and collections. When a team changes regularly the ability to communicate the priority, current state and the unique challenges is an essential skill to keep the business moving without fault.
-
+ I am an excellent communicator and team player. For many years I have worked in ever-changing teams across multiple accounts and collections. When a team changes regularly, being a good communicator is key to keep things moving without fault. Having the ability to communicate the business’s unique challenges to new members has made me an excellent team player.
 
 ## Experience
  
