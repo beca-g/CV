@@ -8,7 +8,7 @@
 
 ## Background & Motivation
 
-I am a passionate, highly driven software developer and a recent graduate of Makers Academy. With a wealth of experience in high-pressure environments, the fashion industry gave me a creative platform where I could develop projects and my ideas could flourish and programming is the epicentre of that domain. Keen to utilise my skills in a more challenging way I decided to pursue coding and a path of life long learning. Now applying my keen work ethic obtained in my previous life to the exciting world of tech, where everything can change because of a line of code.
+I am a passionate, highly driven software developer and a recent graduate of Makers Academy. With a wealth of experience in high-pressure environments, the fashion industry gave me a creative platform where my ideas could flourish and be developed into products and programming is the epicentre of that domain. Keen to utilise my skills in a more challenging way I decided to pursue coding and a path of life long learning. Now applying my keen work ethic obtained in my previous life to the exciting world of tech, where everything can change because of a line of code.
  
 ## Projects
  
