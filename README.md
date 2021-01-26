@@ -6,11 +6,9 @@
 
 </div>
 
-
-
 ## Background & Motivation
 
-I am a passionate, highly driven software developer and a recent graduate of Makers Academy. With a wealth of experience in high-pressure environments, the fashion industry gave me a creative platform where my ideas could flourish and programming was the epicentre of that domain. Keen to utilise my skills in a more challenging way I decided to pursue coding and a path of life long learning. Now applying my keen work ethic obtained in my previous life to the exciting world of tech, where everything can change because of a line of code.
+I am a passionate, highly driven software developer and a recent graduate of Makers Academy. With a wealth of experience in high-pressure environments, the fashion industry gave me a creative platform where I could develop projects and my ideas could flourish and programming is the epicentre of that domain. Keen to utilise my skills in a more challenging way I decided to pursue coding and a path of life long learning. Now applying my keen work ethic obtained in my previous life to the exciting world of tech, where everything can change because of a line of code.
  
 ## Projects
  
@@ -48,7 +46,7 @@ When the dust from the pandemic settled and business at Misfit Fashions started 
 
 ### Problem Solver
 
-During my time in Fashion I developed a keen eye for recognising problems early and finding solutions fast. The enjoyment I got from fixing a problem was at the core of my decision in becoming a developer. I get engrossed in barriers and bugs that inevitably arise within a project and love working to unblock them. I have found my commitment to this skill in particular has been a considerable advantage for me whilst studying software development. 
+During my time in fashion I developed a keen eye for recognising problems early and finding solutions fast. The enjoyment I got from fixing a problem was at the core of my decision in becoming a developer. I get engrossed in barriers and bugs that inevitably arise within a project and love working to unblock them. I have found my commitment to this skill in particular has been a considerable advantage for me whilst studying software development. 
 
 ### Drive
 
