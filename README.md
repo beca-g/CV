@@ -16,6 +16,7 @@ I am a passionate, highly driven software developer and a recent graduate of Mak
 |-----	|------------	|------------|--------	|
 | [**Why leave?**](https://github.com/Joshuamac2/Why-leave-backend) 	| **Webapp:** To help curb misinformation, and to provide a safe platform to educate the public on the global refugee crisis. 	| Ruby on Rails, PostgreSQL, Travis CI/CD, Heroku, React, Bootstrap, Google Maps API, Vercel 	| RSpec, Cypress 	|
 | [**Bank Tech Test**](https://github.com/beca-g/bank-tech-test)    	| A practice tech test of a basic banking app | Ruby    | Rspec          	|
+| [**Bowling Challenge**](https://github.com/beca-g/bowling-challenge) | A bowling score card | Javascript | Jasmine |
 
 
 ## Technical Skills
