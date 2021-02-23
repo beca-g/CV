@@ -20,7 +20,7 @@ The fashion industry gave me a creative platform where my ideas could flourish a
 |-----	|------------	|------------|--------	|
 | [**Why leave?**](https://why-leave.vercel.app/) 	| **Webapp:** An interactive map of the world to provide a safe platform to help curb misinformation and to educate the public on the global refugee crisis. <br>[Frontend](https://github.com/beca-g/Why_Leave_Front_End)<br>[Backend](https://github.com/beca-g/Why-leave-backend)<br>[Depolyed application](https://why-leave.vercel.app/)   	| Ruby on Rails, PostgreSQL, Travis CI/CD, Heroku, React, HTML, CSS, Bootstrap, Google Maps API, Vercel 	| RSpec, Cypress 	|
 | [**Bank Tech Test**](https://github.com/beca-g/bank-tech-test)    	| A practice tech test of a basic banking app | Ruby    | Rspec          	|
-| [**Bookmark Manager**]() | **Webapp:** An application for managing bookmarks | Ruby, Sinatra, SQL, Postgres | Rspec, Capybara |
+| [**Bookmark Manager**](https://github.com/beca-g/bookmark-manager-revisited) | **Webapp:** An application for managing bookmarks | Ruby, Sinatra, SQL, Postgres | Rspec, Capybara |
 | [**Bowling Challenge**](https://github.com/beca-g/bowling-challenge) | A bowling score card | Javascript | Jasmine |
 
 
