@@ -90,5 +90,5 @@ _Production and Development Manager_
  
 ## Loves
 
-Epic TV shows | [Life Drawing](https://www.pinterest.co.uk/becagalliano/sketching/) | Travelling | History | [Home Decor](https://www.pinterest.co.uk/becagalliano/home-home/) | Tea | [Dogs]()  | Cookies
+Epic TV shows | [Life Drawing](https://www.pinterest.co.uk/becagalliano/sketching/) | Travelling | History | [Home Decor](https://www.pinterest.co.uk/becagalliano/home-home/) | Tea | [Dogs]()  | Crumpets
 
