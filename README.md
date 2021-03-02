@@ -8,7 +8,7 @@
 
 ## Background & Motivation
 
-I am a determined, dependable curious creative and a recent graduate from [Makers Academy](https://makers.tech/about-us/) with a background in fashion.
+I am a determined, dependable, curious creative and a recent graduate from [Makers Academy](https://makers.tech/about-us/) with a background in fashion.
  
 The fashion industry gave me a wealth of experience in high-pressured environments and was a creative platform where my ideas could flourish and be developed into products. Keen to utilise my skills in a more challenging way, I decided to pursue a career in software engineering and a path of lifelong learning. Now applying my keen work ethic obtained in my previous life to the exciting world of tech, where everything can change because of a line of code.
 
